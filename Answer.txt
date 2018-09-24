@@ -1,0 +1,1 @@
+Q) What happened when you send message from client in Multicast UDP when server is not available?Answer: The messages sent from a client will still be received by other clients even if the server is not available because the server and clients are connected to a common group.
